@@ -1,0 +1,7 @@
+<div id="messages"></div>
+<br/>
+
+
+<div id="messages"></div>
+<div id="from"><%= @nickname %></div>
+<input id="message-input" type="text">
